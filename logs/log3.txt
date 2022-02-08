@@ -1,0 +1,16 @@
+45 : uf_w : available
+85 : f_cv : available
+171 : fk_o : available
+221 : fk_z : available
+340 : wf_k : available
+385 : o_af : available
+466 : g_sj : available
+602 : f_af : available
+686 : g_sk : available
+790 : p_fk : available
+845 : f_ci : available
+1020 : s_ey : available
+1098 : f_cn : available
+1157 : f_ws : available
+1347 : d_kk : available
+1475 : di_c : available
